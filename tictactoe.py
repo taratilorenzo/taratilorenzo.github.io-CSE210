@@ -3,9 +3,6 @@ Tic Tac Toe by Lorenzo Tarati
 """
 
 """main function"""
-from operator import truediv
-
-
 def main():
 
     #Decalring the variable player
